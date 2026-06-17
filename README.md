@@ -1,28 +1,55 @@
-# 👋 Hey, I'm Technifai
+<img src="banner.png" width="100%">
 
-### 🚀 Developer • Linux Enthusiast • AI Explorer
+# 👋 Welcome to Technifai
 
-Building websites, automation tools, and digital products.
-
----
-
-## 💡 About Me
-
-- 🌱 Learning AI, Linux and Web Development
-- 🔭 Working on personal projects
-- 🚀 Building Technifai
-- ☕ Working on Cafe Adda
+[Typing Animation]
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,python,linux,git,github,vscode)
+Developer from India 🇮🇳
+
+- 🐧 Linux Enthusiast
+- 🤖 AI Explorer
+- 🌐 Web Developer
+- ⚡ Automation Builder
+- 🚀 Entrepreneur
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Tech Arsenal
 
-![Stats](https://github-readme-stats.vercel.app/api?username=technifai&show_icons=true&theme=tokyonight)
+[Skill Icons]
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=technifai&layout=compact&theme=tokyonight)
+---
+
+## 📊 GitHub Stats
+
+[Stats Card]
+[Streak Card]
+[Languages Card]
+
+---
+
+## 🔥 Current Projects
+
+☕ Cafe Adda
+
+🌐 Technifai
+
+🤖 Automation Tools
+
+📱 Android Experiments
+
+---
+
+## 🌎 Connect
+
+GitHub
+YouTube
+Website
+
+---
+
+Visitor Counter
