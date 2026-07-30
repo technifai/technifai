@@ -2,8 +2,6 @@
 
 # 👋 Welcome to Technifai
 
-[Typing Animation]
-
 ---
 
 ## 🚀 About Me
